@@ -190,3 +190,21 @@ Used:
 - Incident Simulation & Resolution
 
 - Virtual Network Configuration
+
+---
+1️⃣ DC01 Static IP Configuration
+<img width="869" height="671" alt="image" src="https://github.com/user-attachments/assets/12bc6b2d-6e4a-4a72-ba7d-24e4d718d245" />
+
+---
+2️⃣ DNS Server Configuration on DC01
+<img width="998" height="713" alt="image" src="https://github.com/user-attachments/assets/341ded36-6b0a-4882-a17a-4346bd40952d" />
+
+---
+3️⃣ Active Directory Users and Computers
+<img width="790" height="603" alt="image" src="https://github.com/user-attachments/assets/40e335df-d330-4da9-a4e0-3b683c4378d1" />
+
+---
+4️⃣ CLIENT01 Successful Ping to DC01
+<img width="632" height="436" alt="image" src="https://github.com/user-attachments/assets/d3698d7b-8e79-409c-acda-f6c2793f3552" />
+
+---
