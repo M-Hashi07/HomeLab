@@ -208,3 +208,22 @@ Used:
 <img width="632" height="436" alt="image" src="https://github.com/user-attachments/assets/d3698d7b-8e79-409c-acda-f6c2793f3552" />
 
 ---
+
+5️⃣ Domain Join Success
+<img width="1017" height="786" alt="image" src="https://github.com/user-attachments/assets/2d489587-792b-4cfa-9668-3990864eae09" />
+
+---
+
+6️⃣ CLIENT01 Appearing in AD Computers OU
+<img width="985" height="752" alt="image" src="https://github.com/user-attachments/assets/2a390a9a-ef3a-42cf-a844-843050448d96" />
+
+---
+
+7️⃣ Logging in as Domain User
+<img width="1024" height="851" alt="image" src="https://github.com/user-attachments/assets/ab558591-c54d-4040-b74f-d04ae8580dbe" />
+
+---
+
+8️⃣ whoami Command
+<img width="1020" height="852" alt="image" src="https://github.com/user-attachments/assets/27d53393-e039-4c98-9289-77edf93a50ad" />
+---
